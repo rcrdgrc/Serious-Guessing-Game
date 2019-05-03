@@ -1,4 +1,4 @@
-# A-Serious-Guessing-Game
+# Serious-Guessing-Game
 The point of this game is to guess a phrase 
 if not something serious happens. The player
 can miss 5 times.  
